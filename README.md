@@ -42,4 +42,12 @@ This workshop is part of the **AI Tools in Research** series hosted by the **Dig
 
 Breen, J. and A. Roccamo. (2025). *AI Tools for Research: Getting Started with Literature Reviews* (workshop materials).  
 Geospatial Research Lab, American University Library.  
-https://github.com/GeospatialResearchLab/workshop-ai-lit-review-2025
+https://github.com/jessibreen/workshop-lit-review-2025
+
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+[![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
