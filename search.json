@@ -7,27 +7,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "googlescholar.html",
-    "href": "googlescholar.html",
-    "title": "Google Scholar Quick Guide",
-    "section": "",
-    "text": "Google Scholar is a freely accessible search engine for scholarly literature. It includes journal articles, theses, books, preprints, and more. While not comprehensive, it’s a great starting point for identifying foundational works and following citation trails. ## Using Google Scholar for a Literature Review"
-  },
-  {
-    "objectID": "googlescholar.html#limitations",
-    "href": "googlescholar.html#limitations",
-    "title": "Google Scholar Quick Guide",
-    "section": "Limitations",
-    "text": "Limitations\n\nResults are ranked by relevance, not quality\nLacks advanced search tools (Boolean, filters)\nIncludes duplicates, preprints, and non-peer-reviewed sources"
-  },
-  {
-    "objectID": "googlescholar.html#tip-for-ai-powered-discovery",
-    "href": "googlescholar.html#tip-for-ai-powered-discovery",
-    "title": "Google Scholar Quick Guide",
-    "section": "Tip for AI-Powered Discovery",
-    "text": "Tip for AI-Powered Discovery\nOnce you’ve identified a few key papers in Google Scholar, you can use tools like Semantic Scholar or Research Rabbit to build a visual or AI-enhanced map of related literature."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI Tools for Research: Getting Started with Literature Reviews",
@@ -110,5 +89,26 @@
     "title": "Materials",
     "section": "",
     "text": "Workshop Handout"
+  },
+  {
+    "objectID": "googlescholar.html",
+    "href": "googlescholar.html",
+    "title": "Google Scholar Quick Guide",
+    "section": "",
+    "text": "Google Scholar is a freely accessible search engine for scholarly literature. It includes journal articles, theses, books, preprints, and more. While not comprehensive, it’s a great starting point for identifying foundational works and following citation trails. ## Using Google Scholar for a Literature Review"
+  },
+  {
+    "objectID": "googlescholar.html#limitations",
+    "href": "googlescholar.html#limitations",
+    "title": "Google Scholar Quick Guide",
+    "section": "Limitations",
+    "text": "Limitations\n\nResults are ranked by relevance, not quality\nLacks advanced search tools (Boolean, filters)\nIncludes duplicates, preprints, and non-peer-reviewed sources"
+  },
+  {
+    "objectID": "googlescholar.html#tip-for-ai-powered-discovery",
+    "href": "googlescholar.html#tip-for-ai-powered-discovery",
+    "title": "Google Scholar Quick Guide",
+    "section": "Tip for AI-Powered Discovery",
+    "text": "Tip for AI-Powered Discovery\nOnce you’ve identified a few key papers in Google Scholar, you can use tools like Semantic Scholar or Research Rabbit to build a visual or AI-enhanced map of related literature."
   }
 ]
